@@ -165,6 +165,7 @@ This means that this is a prototype of the DC-15A made by namenai, N for namenai
         - Hella kick, based of recoils from shotguns in UNSUNG but tuned up, blame flog 🤣
         - As such the damage of the one and only mag that it can use is way more then even the currnet LE's damage. 30 round mag aswell. 
         - x4 scope with the scope picture thing is the same as the LE's becuase the old one, while looking nice cause of its white accents, was shit cause the red dot was like 4 times bigger then a droid at close range.
+        - Oh also has 100% accuracy, 0 dispersion, so if you miss its your fault.
     - #### Prototype Class N DC-15S
         - Literally 1000 rounds per minute
         - thats it
