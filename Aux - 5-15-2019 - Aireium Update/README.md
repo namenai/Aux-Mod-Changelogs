@@ -29,6 +29,8 @@ For our lazy friends,here you go.
     * [Script Functions](#script-functions)
 * [Prototype](#prototype)
     * [Infantry Based Prototype](#Infantry-based-prototype)
+* [Particle Effects](#particle-effects)
+    
 ---
 Lets start with the small stuff
 - ###  Vehicle Based
@@ -162,3 +164,9 @@ This means that this is a prototype of the DC-15A made by namenai, N for namenai
     - #### Prototype Class N DC-15S
         - Literally 1000 rounds per minute
         - thats it
+
+---
+*What are frames* 🎞️
+## Particle Effects
+
+The most I will say is, go throw an explosive and see that refraction effect. Most explosives should have it.
