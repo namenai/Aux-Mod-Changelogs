@@ -33,6 +33,8 @@ For our lazy friends,here you go.
     
 ---
 Lets start with the small stuff
+*Vroom Vroom Vroom* 🚗 🚚
+
 - ###  Vehicle Based
     + ##### Vehicle Additions
         +   Republic H.O.T (Heavy ordinance tank) + CIS Variants 🥵
@@ -41,6 +43,8 @@ Lets start with the small stuff
     + ##### Vehicle Fixes
         +  Issue preventing servers loading with 212th mod loaded
 ---
+*Pew Pew Pew* 🔫
+
 - ### Infantry Based
     + ##### Infantry Additions
         +  Republic L.I.T (Light Infantry Transport) 🔥 
