@@ -1,7 +1,7 @@
 # Aerium Update Changelog
 
 **501 R&D**   
-_by:_ **CX-P Zatama** 🍀☘️🥔🥔🥔🥔   
+_by:_ **CX-P Zatama** 🍀☘️🥔🥔🥔🥔 + **CX-D Namenai**🐉🐲   
 _changelog by:_ **CX-D Namenai**🐉🐲
 
 ---
@@ -28,7 +28,8 @@ For our lazy friends,here you go.
     * [Aviation Munitions](#aviation-munitions)
     * [Script Functions](#script-functions)
 * [Prototype](#prototype)
-    * [Infantry Based Prototype](#Infantry-based-prototype)
+    * [Infantry Based Prototype](#infantry-based-prototype)
+    * [Vehicle Based Prototype](#vehicle-based-prototype)
 * [Particle Effects](#particle-effects)
     
 ---
@@ -40,6 +41,7 @@ Lets start with the small stuff
         +   Republic H.O.T (Heavy ordinance tank) + CIS Variants 🥵
         +   Republic R.O.T (Rocket ordinance tank) + CIS Variants
         +   Hailfire Droid now contains approximately 75% more hail (Hella more weapons, like AA)
+        +   AV-19, look at [Vehicle Based Prototype](#vehicle-based-prototype) for more info
     + ##### Vehicle Fixes
         +  Issue preventing servers loading with 212th mod loaded
 ---
@@ -169,7 +171,10 @@ This means that this is a prototype of the DC-15A made by namenai, N for namenai
     - #### Prototype Class N DC-15S
         - Literally 1000 rounds per minute
         - thats it
-
+- ### Vehicle Based Prototype
+    - #### Prototype Class N AV-19
+        - Simply put its an AV-7 with the vinilla arma 3 arty weapons and ammo. 
+       
 ---
 *What are frames* 🎞️
 ## Particle Effects
