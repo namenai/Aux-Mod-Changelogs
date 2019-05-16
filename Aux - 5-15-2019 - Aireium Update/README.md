@@ -5,8 +5,8 @@ _by:_ **CX-P Zatama** 🍀☘️🥔🥔🥔🥔 + **CX-D Namenai**🐉🐲
 _changelog by:_ **CX-D Namenai**🐉🐲
 
 ---
-**Yavin Base controller** - "Luke, you switched off your targeting computer! What's wrong?"   
-**Luke Skywalker** - "This missile spam is *fuckin* borin mate"
+>**Yavin Base controller** - "Luke, you switched off your targeting computer! What's wrong?"   
+>**Luke Skywalker** - "This missile spam is *fuckin* borin mate"
 
 As the name suggests the main focus of this update was improving the gameplay in the skies, Star Wars dogfights took *obvious* inspiration from the white knuckle engagements of WWII, and with that in mind I have made various additions and changes in an attempt to capture the *ascetic* and *excitement* of space (Air) battles in the star wars universe. Here are the changes specific to that goal 🥔
 
