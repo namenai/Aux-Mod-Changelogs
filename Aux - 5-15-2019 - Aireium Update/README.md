@@ -179,4 +179,4 @@ This means that this is a prototype of the DC-15A made by namenai, N for namenai
 *What are frames* 🎞️
 ## Particle Effects
 
-The most I will say is, go throw an explosive and see that refraction effect. Most explosives should have it. They where made by a CUP dev named `Taro` who I asked for permission to use and modify, so please credit it to him.
+The most I will say is, go throw an explosive and see that refraction effect. Most explosives should have it. They where made by a CUP dev named **Taro** who I asked for permission to use and modify, so please credit it to him.
