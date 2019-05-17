@@ -91,8 +91,8 @@ Now the best changes for Aerium for last.
             + Stability
                 + All non clone wars era aircraft have had their mass adjusted to perform more reliably at speed.
             + Performance
-                + ~~Aircraft are no longer capable of exceeding the maximum altitude of the zeus camera.   
-                    +This is a **highly experimental** change, feedback is ***extremely*** important.Maximum thrust is at 1.7km and loses all thrust at 2km. The little bird flies higher~~
+                + Aircraft are no longer capable of exceeding the maximum altitude of the zeus camera.
+                    + This is a **highly experimental** change, feedback is ***extremely*** important.Maximum thrust is at 1.7km and loses all thrust at 2km. The little bird flies higher
             + Loadout
                 + All aircraft have had their weapon loadouts altered drastically
         + Delta 7A
@@ -154,7 +154,7 @@ Now the best changes for Aerium for last.
 ---
 *This is where the fun begins* 😀  
 ## Prototype
-These are the prototype changes. Basicly they are changes that we the real mod boiz are playing around with. They are not ment to be used on any full scale offical capacity but rather to get peoples thoughts and feelings and get input on the changes. Now the reason for these changes is to expand the room in which each weapon can vary from each other. Right now its very difficult to make any weapon diffrent from one another due to the range of parameters availible. So the prototypes are ment to expanmd that range to give each gun a diffrent flavor. These are ofcourse ment for testing and may or may not be balanced. 🤣
+These are the prototype changes. Basicly they are changes that we the real mod boiz are playing around with. They are not ment to be used on any full scale offical capacity but rather to get peoples thoughts and feelings and get input on the changes. For example we have 2 prototypes: DC-15S Carbine and DC-15A Rifle prototypes. Now the reason for these changes is to expand the room in which each weapon can vary from each other. Right now its very difficult to make any weapon diffrent from one another due to the range of parameters availible. So the prototypes are ment to expanmd that range to give each gun a diffrent flavor. These are ofcourse ment for testing and may or may not be balanced. 🤣
 
 There is a naming scheme to this. For example we have
 ```
