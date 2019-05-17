@@ -91,8 +91,8 @@ Now the best changes for Aerium for last.
             + Stability
                 + All non clone wars era aircraft have had their mass adjusted to perform more reliably at speed.
             + Performance
-                + ~~Aircraft are no longer capable of exceeding the maximum altitude of the zeus camera.~~
-                    +~~ This is a **highly experimental** change, feedback is ***extremely*** important.Maximum thrust is at 1.7km and loses all thrust at 2km. The little bird flies higher~~
+                + ~~Aircraft are no longer capable of exceeding the maximum altitude of the zeus camera.   
+                    +This is a **highly experimental** change, feedback is ***extremely*** important.Maximum thrust is at 1.7km and loses all thrust at 2km. The little bird flies higher~~
             + Loadout
                 + All aircraft have had their weapon loadouts altered drastically
         + Delta 7A
