@@ -1,12 +1,12 @@
 # Aerium Update Changelog
 
 **501 R&D**   
-_by:_ **CX-P Zatama** 🍀☘️🥔🥔🥔🥔   
+_by:_ **CX-P Zatama** 🍀☘️🥔🥔🥔🥔 + **CX-D Namenai**🐉🐲   
 _changelog by:_ **CX-D Namenai**🐉🐲
 
 ---
-**Yavin Base controller** - "Luke, you switched off your targeting computer! What's wrong?"   
-**Luke Skywalker** - "This missile spam is *fuckin* borin mate"
+>**Yavin Base controller** - "Luke, you switched off your targeting computer! What's wrong?"   
+>**Luke Skywalker** - "This missile spam is *fuckin* borin mate"
 
 As the name suggests the main focus of this update was improving the gameplay in the skies, Star Wars dogfights took *obvious* inspiration from the white knuckle engagements of WWII, and with that in mind I have made various additions and changes in an attempt to capture the *ascetic* and *excitement* of space (Air) battles in the star wars universe. Here are the changes specific to that goal 🥔
 
@@ -28,7 +28,8 @@ For our lazy friends,here you go.
     * [Aviation Munitions](#aviation-munitions)
     * [Script Functions](#script-functions)
 * [Prototype](#prototype)
-    * [Infantry Based Prototype](#Infantry-based-prototype)
+    * [Infantry Based Prototype](#infantry-based-prototype)
+    * [Vehicle Based Prototype](#vehicle-based-prototype)
 * [Particle Effects](#particle-effects)
     
 ---
@@ -40,6 +41,7 @@ Lets start with the small stuff
         +   Republic H.O.T (Heavy ordinance tank) + CIS Variants 🥵
         +   Republic R.O.T (Rocket ordinance tank) + CIS Variants
         +   Hailfire Droid now contains approximately 75% more hail (Hella more weapons, like AA)
+        +   AV-19, look at [Vehicle Based Prototype](#vehicle-based-prototype) for more info
     + ##### Vehicle Fixes
         +  Issue preventing servers loading with 212th mod loaded
 ---
@@ -166,12 +168,27 @@ This means that this is a prototype of the DC-15A made by namenai, N for namenai
         - As such the damage of the one and only mag that it can use is way more then even the currnet LE's damage. 30 round mag aswell. 
         - x4 scope with the scope picture thing is the same as the LE's becuase the old one, while looking nice cause of its white accents, was shit cause the red dot was like 4 times bigger then a droid at close range.
         - Oh also has 100% accuracy, 0 dispersion, so if you miss its your fault.
+    - #### Prototype Class N DC-15A Long Engagment
+        - Same as Proto Class N DC-15A
+        - Accepts same mags as Proto Class N DC-15A
+        - Muzzle velocity is twice of Proto Class N DC-15A
+        - instead has scope that has x4,x8,x12, night vision and **thermals**
+    - #### Prototype Class N DC-15A Mod 0
+        - 500 rounds per minute,full auto only
+        - Accepts same mags as Proto Class N DC-15A,plus has its own mag thats 100 rounds but lower damage, around the currnet medium rounds.
+        - Muzzle velocity is lower,by about 40%, of Proto Class N DC-15A
+        - Recoil is modified,taken from the FN Minimi SPW thats in vanilla arma 3 but with a little bit more recoil.
+        - Will have same scope,but only x4 and no x1.
     - #### Prototype Class N DC-15S
         - Literally 1000 rounds per minute
         - thats it
-
+    
+- ### Vehicle Based Prototype
+    - #### Prototype Class N AV-19
+        - Simply put its an AV-7 with the vinilla arma 3 arty weapons and ammo. 
+       
 ---
 *What are frames* 🎞️
 ## Particle Effects
 
-The most I will say is, go throw an explosive and see that refraction effect. Most explosives should have it. They where made by a CUP dev named Taro who I asked for permission to use and modify, so please credit it to him.
+The most I will say is, go throw an explosive and see that refraction effect. Most explosives should have it. They where made by a CUP dev named [Taro](https://forums.bohemia.net/forums/topic/221306-refraction-blast-wave/) who I asked for permission to use and modify, so please credit it to him. Click his name to go to the BI forum about this.
