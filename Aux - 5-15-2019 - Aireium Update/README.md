@@ -2,7 +2,7 @@
 
 **501 R&D**   
 _by:_ **CX-P Zatama** 🍀☘️🥔🥔🥔🥔 + **CX-D Namenai**🐉🐲   
-_changelog by:_  **CX-D Namenai**🐉🐲
+_changelog by_ : **CX-D Namenai**🐉🐲
 
 ---
 >**Yavin Base controller** - "Luke, you switched off your targeting computer! What's wrong?"   
