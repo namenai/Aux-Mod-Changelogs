@@ -173,7 +173,7 @@ This means that this is a prototype of the DC-15A made by namenai, N for namenai
         - Same as Proto Class N DC-15A
         - Accepts same mags as Proto Class N DC-15A
         - Muzzle velocity is twice of Proto Class N DC-15A
-        - instead has scope that has x4,x8,x12, night vision and **thermals**
+        - instead has scope that has x4,x8,x12, night vision and **thermals**(I think I added it....)
     - #### Prototype Class N DC-15A Mod 0
         - 500 rounds per minute,full auto only
         - Accepts same mags as Proto Class N DC-15A,plus has its own mag thats 100 rounds but lower damage, around the currnet medium rounds.
@@ -183,6 +183,7 @@ This means that this is a prototype of the DC-15A made by namenai, N for namenai
     - #### Prototype Class N DC-15S
         - Literally 1000 rounds per minute
         - thats it
+        - Oh yes ik it has no recoil......
     
 - ### Vehicle Based Prototype
     - #### Prototype Class N AV-19
