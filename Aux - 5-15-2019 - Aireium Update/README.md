@@ -185,6 +185,7 @@ This means that this is a prototype of the DC-15A made by namenai, N for namenai
         - Accepts same mags as Proto Class N DC-15A
         - Muzzle velocity is twice of Proto Class N DC-15A
         - instead has scope that has x4,x8,x12, night vision and **thermals**
+        - NOTE: the scope is misaligned,but so is the normal LE. So why is that you notice it here more? Because this gun has 100% accuracy so it always goes to the same spot where as the normal LE has some dispersion, so what I am basicly saying is if you cant hit with this proto weapon, then yyou have been relying on RNG to hit your shots XD. 
     - #### Prototype Class N DC-15A Mod 0
         - 500 rounds per minute,full auto only
         - Accepts same mags as Proto Class N DC-15A,plus has its own mag thats 100 rounds but lower damage, around the currnet medium rounds.
