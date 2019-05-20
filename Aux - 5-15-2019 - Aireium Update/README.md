@@ -31,7 +31,7 @@ For our lazy friends,here you go.
     * [Infantry Based Prototype](#infantry-based-prototype)
     * [Vehicle Based Prototype](#vehicle-based-prototype)
 * [Particle Effects](#particle-effects)
-* [Special](#special)   
+* [Special](#thx)   
 ---
 Lets start with the small stuff   
 *Vroom Vroom Vroom* 🚗 🚚
@@ -169,7 +169,7 @@ or
 ```
 `PROTO` cause the name gets too long.
 
-This means that this is a prototype of the DC-15A made by namenai, N for namenai holy shit, so if theres any issues/suggestions/toughts you would go talk to namenai directly. Class Z is for Zatama and Class R is for Rexi (RIP ⚰️). Ez PP ezy dont get it twisted now.
+This means that this is a prototype of the DC-15A made by namenai, N for namenai, holy shit, so if theres any issues/suggestions/toughts you would go talk to namenai directly. Class Z is for Zatama and Class R is for Rexi (RIP ⚰️). Ez PP ezy dont get it twisted now.
 - ### Infantry Based Prototype
     - #### Prototype Class N DC-15A
         - Semi auto only, shoots every 0.6 seconds which means rate of fire is 100 rounds per minute
