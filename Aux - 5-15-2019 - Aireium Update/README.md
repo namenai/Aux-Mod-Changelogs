@@ -56,9 +56,9 @@ Lets start with the small stuff
             + All Backpacks
                 + Maximum Capacity increased to 600 (from 500) 
             + Demolition Backpack
-                + Maximum Capacity decreased to 600 (from 700)
-        +  AP Grenade
-            + AP Grenades now carry a small explosive radious and should no longer be capable of penetrating multiple targets.     
+                + Maximum Capacity ~~decreased to 600 (from 700)~~ same at 700.
+        +  ~~AP Grenade~
+            + ~~~AP Grenades now carry a small explosive radious and should no longer be capable of penetrating multiple targets.~~~     
         +  DC15 LE
             + Magazine Weight reduced by 50% 
         +  RPS6
@@ -116,10 +116,11 @@ Now the best changes for Aerium for last.
             + "Swarm AA Launcher" + CIS Variant "CIS Swarm AA Launcher"
             + "Tyrant AA Launcher" + CIS Variant "CIS Tyrant AA Launcher"
             + "Oneger AA Battery" + CIS Variant "CIS B.E.A.R.D"
-            + "Rayne Delivery System"
-            + "Wynd Launcher System"
-            + "Plasma Cannon"
+            + "Rayne Delivery System" --> Aircraft Bombs
+            + "Wynd Launcher System"  --> Aircraft Missiles
+            + "Plasma Cannon" --> *geee I dont fuckn know guess m8*
             + "Warden Tank MK.2" - Thank you CS Royale for the great texture! 💚
+            + Killed Warden Tank MK.1 aka removed it.
             + "Razor Blade" Sidearm 
                 + Model is the DC-15 SA, it features a 8 round mag, very slow rate of fire, very high recoil.
             + PS-22 Scatter Rifle
@@ -194,7 +195,7 @@ This means that this is a prototype of the DC-15A made by namenai, N for namenai
 The most I will say is, go throw an explosive and see that refraction effect. Most explosives should have it. They where made by a CUP dev named [Taro](https://forums.bohemia.net/forums/topic/221306-refraction-blast-wave/) who I asked for permission to use and modify, so please credit it to him. Click his name to go to the BI forum about this.
 
 ---
-*Special Snowflake* 🎞️
-## Special
+*Thx* ❤️
+## Thx
 
-Fancy,Kryptic,Klown got something special 😮.
+Fancy,Kryptic, and Klown thx even tho it wasnt real day lol. ❤️
