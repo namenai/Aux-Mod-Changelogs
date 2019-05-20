@@ -216,4 +216,4 @@ OHHH also there was some helmet changes,although the only 3 I can remember are t
 *Thx* ❤️
 ## Thx
 
-Fancy,Kryptic, and Klown thx even tho it wasnt real day lol. ❤️
+Fancy,Kryptic, and Klown thx for saying happi b day even tho it wasnt real day lol. ❤️
