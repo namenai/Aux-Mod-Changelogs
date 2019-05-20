@@ -31,7 +31,7 @@ For our lazy friends,here you go.
     * [Infantry Based Prototype](#infantry-based-prototype)
     * [Vehicle Based Prototype](#vehicle-based-prototype)
 * [Particle Effects](#particle-effects)
-    
+* [Special](#special)   
 ---
 Lets start with the small stuff   
 *Vroom Vroom Vroom* 🚗 🚚
@@ -90,7 +90,7 @@ Now the best changes for Aerium for last.
         + All aircraft
             + Stability
                 + All non clone wars era aircraft have had their mass adjusted to perform more reliably at speed.
-            + Performance (~~RIP Airborne~~)(JK rolling)
+            + Performance (~~RIP Airborne~~)(JK rolling)(Zatama was smoking too many potatoes)
                 + ~~Aircraft are no longer capable of exceeding the maximum altitude of the zeus camera.   
                     +This is a **highly experimental** change, feedback is ***extremely*** important.Maximum thrust is at 1.7km and loses all thrust at 2km. The little bird flies higher~~
             + Loadout
@@ -192,3 +192,9 @@ This means that this is a prototype of the DC-15A made by namenai, N for namenai
 ## Particle Effects
 
 The most I will say is, go throw an explosive and see that refraction effect. Most explosives should have it. They where made by a CUP dev named [Taro](https://forums.bohemia.net/forums/topic/221306-refraction-blast-wave/) who I asked for permission to use and modify, so please credit it to him. Click his name to go to the BI forum about this.
+
+---
+*Special Snowflake* 🎞️
+## Special
+
+Fancy,Kryptic,Klown got something special 😮.
