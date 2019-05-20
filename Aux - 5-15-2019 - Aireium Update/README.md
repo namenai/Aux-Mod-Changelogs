@@ -90,7 +90,7 @@ Now the best changes for Aerium for last.
         + All aircraft
             + Stability
                 + All non clone wars era aircraft have had their mass adjusted to perform more reliably at speed.
-            + Performance (~~RIP Airborne~~)(JK rolling)(Zatama was smoking too many potatoes)
+            + Performance (~~RIP Airborne~~)(JK rolling)(`Zatama was smoking too many potatoes`)
                 + ~~Aircraft are no longer capable of exceeding the maximum altitude of the zeus camera.   
                     +This is a **highly experimental** change, feedback is ***extremely*** important.Maximum thrust is at 1.7km and loses all thrust at 2km. The little bird flies higher~~
             + Loadout
