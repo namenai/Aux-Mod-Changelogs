@@ -10,7 +10,7 @@ _changelog by_ : **CX-D Namenai**🐉🐲
 
 As the name suggests the main focus of this update was improving the gameplay in the skies, Star Wars dogfights took *obvious* inspiration from the white knuckle engagements of WWII, and with that in mind I have made various additions and changes in an attempt to capture the *ascetic* and *excitement* of space (Air) battles in the star wars universe. Here are the changes specific to that goal 🥔
 
-OHHH also there was some helmet changes,although the only 3 I can remember are the 3 stooges, Nobear,Needles,Navo ❤️
+
 
 ---
 # Table of Contents
@@ -209,10 +209,10 @@ The most I will say is, go throw an explosive and see that refraction effect. Mo
 Oh also,this is me basicly adding in bits and pieces of blastcore in :P. Blastecore is a client side mod that does not effect server (how do I know, Arma 3 modding community says so :P). K its not really blastcore its just that these refraction effects where ment to be used with blastcore but you get the meme.
 
 ---
-*What are frames* 🎞️
-## Particle Effects
+*Protection :)* ⛑️
+## Helmets
 
-The most I will say is, go throw an explosive and see that refraction effect. Most explosives should have it. They where made by a CUP dev named [Taro](https://forums.bohemia.net/forums/topic/221306-refraction-blast-wave/) who I asked for permission to use and modify, so please credit it to him. Click his name to go to the BI forum about this.
+OHHH also there was some helmet changes,although the only 3 I can remember are the 3 stooges, Nobear,Needles,Navo ❤️
 
 ---
 *Thx* ❤️
