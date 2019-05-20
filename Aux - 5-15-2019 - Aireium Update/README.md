@@ -155,12 +155,20 @@ Now the best changes for Aerium for last.
 ---
 *This is where the fun begins* 😀  
 ## Prototype
-These are the prototype changes. Basicly they are changes that we the real mod boiz are playing around with. They are not ment to be used on any full scale offical capacity but rather to get peoples thoughts and feelings and get input on the changes. Now the reason for these changes is to expand the room in which each weapon can vary from each other. Right now its very difficult to make any weapon diffrent from one another due to the range of parameters availible. So the prototypes are ment to expanmd that range to give each gun a diffrent flavor. These are ofcourse ment for testing and may or may not be balanced. 🤣
+These are the prototype changes. Basicly they are changes that we the real mod boiz are playing around with. They are not ment to be used on any full scale offical capacity but rather to get peoples thoughts and feelings and get input on the changes. Now the reason for these changes is to expand the room in which each weapon can vary from each other. Right now its very difficult to make any weapon diffrent from one another due to the range of parameters availible. So the prototypes are ment to expand that range to give each gun a diffrent flavor. These are ofcourse ment for testing and may or may not be balanced. 🤣
+
+The 2 main focus are the `DC-15A` and `DC-15S` revolving mainly around the rate of fire, recoil and damage. The other weapons are there just to give a feeling as to what I have in mind. 
 
 There is a naming scheme to this. For example we have
 ```
 (PROTOTYPE Class N) DC-15A
 ```
+or
+```
+(PROTO Class N) DC-15A Long Engagment
+```
+`PROTO` cause the name gets too long.
+
 This means that this is a prototype of the DC-15A made by namenai, N for namenai holy shit, so if theres any issues/suggestions/toughts you would go talk to namenai directly. Class Z is for Zatama and Class R is for Rexi (RIP ⚰️). Ez PP ezy dont get it twisted now.
 - ### Infantry Based Prototype
     - #### Prototype Class N DC-15A
@@ -173,7 +181,7 @@ This means that this is a prototype of the DC-15A made by namenai, N for namenai
         - Same as Proto Class N DC-15A
         - Accepts same mags as Proto Class N DC-15A
         - Muzzle velocity is twice of Proto Class N DC-15A
-        - instead has scope that has x4,x8,x12, night vision and **thermals**(I think I added it....)
+        - instead has scope that has x4,x8,x12, night vision and **thermals**
     - #### Prototype Class N DC-15A Mod 0
         - 500 rounds per minute,full auto only
         - Accepts same mags as Proto Class N DC-15A,plus has its own mag thats 100 rounds but lower damage, around the currnet medium rounds.
@@ -183,7 +191,7 @@ This means that this is a prototype of the DC-15A made by namenai, N for namenai
     - #### Prototype Class N DC-15S
         - Literally 1000 rounds per minute
         - thats it
-        - Oh yes ik it has no recoil......
+        - No really thats it.
     
 - ### Vehicle Based Prototype
     - #### Prototype Class N AV-19
