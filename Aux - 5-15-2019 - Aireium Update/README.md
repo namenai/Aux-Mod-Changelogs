@@ -57,8 +57,8 @@ Lets start with the small stuff
                 + Maximum Capacity increased to 600 (from 500) 
             + Demolition Backpack
                 + Maximum Capacity ~~decreased to 600 (from 700)~~ same at 700.
-        +  ~~AP Grenade~
-            + ~~~AP Grenades now carry a small explosive radious and should no longer be capable of penetrating multiple targets.~~~     
+        +  ~~AP Grenade~~
+            + ~~AP Grenades now carry a small explosive radious and should no longer be capable of penetrating multiple targets.~~     
         +  DC15 LE
             + Magazine Weight reduced by 50% 
         +  RPS6
