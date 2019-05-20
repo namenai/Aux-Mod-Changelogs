@@ -10,6 +10,8 @@ _changelog by_ : **CX-D Namenai**🐉🐲
 
 As the name suggests the main focus of this update was improving the gameplay in the skies, Star Wars dogfights took *obvious* inspiration from the white knuckle engagements of WWII, and with that in mind I have made various additions and changes in an attempt to capture the *ascetic* and *excitement* of space (Air) battles in the star wars universe. Here are the changes specific to that goal 🥔
 
+OHHH also there was some helmet changes,although the only 3 I can remember are the 3 stooges, Nobear,Needles,Navo ❤️
+
 ---
 # Table of Contents
 For our lazy friends,here you go.
@@ -31,6 +33,7 @@ For our lazy friends,here you go.
     * [Infantry Based Prototype](#infantry-based-prototype)
     * [Vehicle Based Prototype](#vehicle-based-prototype)
 * [Particle Effects](#particle-effects)
+* [Helmets](#helmets)
 * [Special](#thx)   
 ---
 Lets start with the small stuff   
@@ -43,7 +46,7 @@ Lets start with the small stuff
         +   Hailfire Droid now contains approximately 75% more hail (Hella more weapons, like AA)
         +   AV-19, look at [Vehicle Based Prototype](#vehicle-based-prototype) for more info
     + ##### Vehicle Fixes
-        +  Issue preventing servers loading with 212th mod loaded
+        +  Issue preventing servers loading with 212th mod loaded, thank namenai for fixing a BIG OPPSIE by Zatama. 💉
 ---
 *Pew Pew Pew* 🔫
 
@@ -197,6 +200,14 @@ This means that this is a prototype of the DC-15A made by namenai, N for namenai
     - #### Prototype Class N AV-19
         - Simply put its an AV-7 with the vinilla arma 3 arty weapons and ammo. 
        
+---
+*What are frames* 🎞️
+## Particle Effects
+
+The most I will say is, go throw an explosive and see that refraction effect. Most explosives should have it. They where made by a CUP dev named [Taro](https://forums.bohemia.net/forums/topic/221306-refraction-blast-wave/) who I asked for permission to use and modify, so please credit it to him. Click his name to go to the BI forum about this.
+
+Oh also,this is me basicly adding in bits and pieces of blastcore in :P. Blastecore is a client side mod that does not effect server (how do I know, Arma 3 modding community says so :P). K its not really blastcore its just that these refraction effects where ment to be used with blastcore but you get the meme.
+
 ---
 *What are frames* 🎞️
 ## Particle Effects
