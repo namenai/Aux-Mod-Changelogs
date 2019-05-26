@@ -10,5 +10,6 @@ Or you can be lazy and click these links below which will take ye to that repo p
 | Update Name   | Update Date   | Update Changelog  | Update Status
 |:-----------:  |-------------  |------------------ |------------------ |
 |    Aerium             | *Released*: 5/20/2019               |  [Aerium Changelog](https://github.com/namenai/Aux-Mod-Changelogs/blob/master/Aux%20-%205-15-2019%20-%20Aireium%20Update/README.md)                   | ✔️ Done |
+|    TBD             | *TBD*:               |  [Aerium Changelog](https://github.com/namenai/Aux-Mod-Changelogs/blob/master/Aux%20-%205-15-2019%20-%20Aireium%20Update/README.md)                   | 🚧 In Progress |
 |    *future*           |      *future*         |       *future*                | *future* |
 |        🔮      |    🐉          |      🍄                | 🍔 |
