@@ -5,8 +5,9 @@ _by:_ **CX-D Namenai**🐉🐲
 _changelog by_ : **CX-D Namenai**🐉🐲
 
 ---
->Burn them,burn them all.
+>**Obi Wan** - Yeet them,Yeet them all.
 
+>**Some Random** - Better then E3
 ---
 
 Renewed, Redone, Refreshed
