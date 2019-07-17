@@ -64,6 +64,7 @@ Each gun has been changed inorder to give it a distinct role and actual purpose.
 
 * Im not sure if I should touch recoil
 * not sure if theres anything need donig for z6 actualy
+* Change to 212th model.
 
 ## Westar rifle, and GL
 
