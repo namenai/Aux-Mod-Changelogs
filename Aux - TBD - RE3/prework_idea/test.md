@@ -16,6 +16,10 @@ Each weapon will have atleast 2 kinds of mags. 1 mag that will be unique/special
 
 Heres what I am thinking for the standard mag: 30 rounds, low weight so you can carry alot, damage will be around that of DC-15a low rounds, and slowish muzzle velocity. What im also thinking is that perhaps make it so that this round doesnt have bullet drop, but all the other specialty ammo of the specialty mags have bullet drop. 
 
+# The Scopes
+
+Im going to make the scopes use 1 of 2 scopes, the blue crosshair one from the LE, or the red dot crosshair one from the old old valken. This is because well, there isnt that mayn scopes in swop that are not fully shit.
+
 # The Gunz
 
 Each gun has been changed inorder to give it a distinct role and actual purpose.
@@ -31,12 +35,14 @@ Each gun has been changed inorder to give it a distinct role and actual purpose.
 ## DC-15 GL
 
 * Same as rifle
+* I belive the 212th have a DC-15GL model,but im not sure about changing it cause theres no model for DC-15a or DC-15 mod 0 then, since the 212th DC-15a model will go to LE.
 
 ## DC-15 LE
 
 * Same as rifle,but will have a x4-12 scope
-* Will have same mags,plus an additional 5 round that a little bit explosive.
+* Im thinking a special mag, perhaps 5 rounds. Maybe AP, HE, or APHE. I am open to ideas, this isnt something im 100% attached to, just thought it be a cool idea.
 * However it will do more damage when shooting the same ammo as the rifle becuase the LE will fire them at a higher velocity, which will cause more damage.
+* Perhaps uses the 212th DC-15 model since all swop DC-15 models have a slight off center of the scope, and marksmen needs the accuracy.
 
 ## DC-15 Mod 0
 
@@ -52,6 +58,7 @@ Each gun has been changed inorder to give it a distinct role and actual purpose.
 * Sexy as fuck rate of fire, something high
 * Low recoil
 * standard mag, plus a 60-80 round low damage mag.
+* Switch to 212th model cause lets be real its nice.
 
 ## Z6
 
@@ -66,13 +73,11 @@ Each gun has been changed inorder to give it a distinct role and actual purpose.
 
 ## DC-17
 
-* Low rate of fire
-* High recoil
-* High damage?
+* To keep it simple, m1911 OwO.
 
-## DC-17a
+~~## DC-17a~~
 
-* Literaly same model as DC-17, but I will make it into a UZI type weapon? Or is it Glock 22 that goes full auto? idk as Scuba he uses Glocks.
+~~* Literaly same model as DC-17, but I will make it into a UZI type weapon? Or is it Glock 22 that goes full auto? idk as Scuba he uses Glocks.~~ (seems to be not liked.)
 
 ## Shotgun
 
