@@ -31,6 +31,8 @@ Or you can be lazy and click these links below which will take ye to that repo p
 
 ## Helmet Guidelines
 
+Helmet guidelines can be found [here](https://github.com/namenai/Aux-Mod-Changelogs/tree/master/Helmets)
+
 ## Changelogs
 
 ### TBD 🔮 
@@ -42,5 +44,5 @@ Or you can be lazy and click these links below which will take ye to that repo p
 ### Aerium
 **Theme:** LAZORZ  
 **Released:** 5/20/2019  
-**Changelog:** [Aerium Changelog](https://github.com/namenai/Aux-Mod-Changelogs/blob/master/Aux%20-%205-15-2019%20-%20Aireium%20Update/README.md)  
+**Changelog:** [Aerium Changelog](https://github.com/namenai/Aux-Mod-Changelogs/tree/master/Changelogs/Aux%20-%205-15-2019%20-%20Aireium%20Update)  
 **Update Status:** ✔️ Done
