@@ -77,6 +77,8 @@ ehhh Im getting it :( also TBH u dont really need one f.
 
 ### Infantry and Airborne Guidelines
 
+**Note:** Helmets will only be given to those who meet the requirments below, and are slotted and active. We cant have texturers waste time on someone who wont be here. Simple facts. Some exceptions have/will be made.
+
 | Rank             | Customization            |
 |------------------|--------------------------|
 | **Vet**          | 2 markings/color changes |
@@ -84,7 +86,7 @@ ehhh Im getting it :( also TBH u dont really need one f.
 |  **Sr Corporal** | 3 markings/color changes |
 | **Sergeant**     | 3 markings/color changes |
 | **Sr Sergeant**  | 4 markings/color changes |
-| **CS-M+**        | full custom              |
+| **CS-M+**        | full custom (**NOTE:** glowing visor will only be given to those who are slotted in a platoon and active, not in reserves)              |
 
 ### Aviation Guidelines
 
@@ -109,3 +111,5 @@ If none of those are met, follow the guidelines below
 | **Lightning CX-X**  | Light changes |
 | **Lightning CX-P**  | CS rules |
 | **Lightning CX-S**  | Full |
+
+**Note:** Billet may allow more,communicate with Aviation CoC for more details. 
