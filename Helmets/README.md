@@ -17,8 +17,9 @@ Helmet approval process has be restructured to allow for a faster delivery time.
   - [Infantry Template](#infantry-template)
   - [Airborne Template](#airborne-template)
   - [Aviation Template](#aviation-template)
+  - [ARC Template](#arc-template)
 - [Guidelines](#guidelines)
-  - [Infantry and Airborne Guidelines](#infantry-and-airborne-guidelines)
+  - [Infantry, Airborne, and ARC Guidelines](#infantry-airborne-and-arc-guidelines)
   - [Aviation Guidelines](#aviation-guidelines)
     - [Conditions](#conditions)
 
@@ -47,7 +48,7 @@ These folks will get in contact with you, depending on where you are, regarding 
 
 ### ARC
 
-????
+Follow the same as infantry, but instead of using the templates for veteran/CS the arc member would use their squad helmet as a template. For example if in Adenn squad,the person would use the Adenn helmet as their template and apply the markings based of their rank.
 
 ## Templates
 
@@ -73,9 +74,13 @@ Airborne NCO's **can only** use this template
 
 ehhh Im getting it :( also TBH u dont really need one f.
 
+### ARC Template
+
+Use the template of your squad. coming soon will post.
+
 ## Guidelines
 
-### Infantry and Airborne Guidelines
+### Infantry, Airborne, and ARC Guidelines
 
 **Note:** Helmets will only be given to those who meet the requirments below, and are slotted and active. We cant have texturers waste time on someone who wont be here. Simple facts. Some exceptions have/will be made.
 
@@ -87,6 +92,8 @@ ehhh Im getting it :( also TBH u dont really need one f.
 | **Sergeant**     | 3 markings/color changes |
 | **Sr Sergeant**  | 4 markings/color changes |
 | **CS-M+**        | full custom (**NOTE:** glowing visor will only be given to those who are slotted in a platoon and active, not in reserves)              |
+
+**Remember** to use correct templates.
 
 ### Aviation Guidelines
 
