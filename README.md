@@ -1,10 +1,10 @@
 # Aux-Mod-Changelogs <!-- omit in toc -->
 
-_last update_:5/20/2019  
+_last update_:9/12/2019  
 _by_:**CX-D Namenai** 🐉
 
 ---
-Hello, welcome to the **RD501** Aux mod changelog repo. Just click which update you wanna see and ye shall see 👀.     
+Hello, welcome to the **RD501** Aux mod changelog repo. Just click which update you wanna see and ye shall see 👀.  
 Or you can be lazy and click these links below which will take ye to that repo page.
 
 ## Table of Contents <!-- omit in toc -->

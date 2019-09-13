@@ -5,15 +5,14 @@ Helmet approval process has be restructured to allow for a faster delivery time.
 ## Table of Contents <!-- omit in toc -->
 
 - [Process](#process)
-  - [Infantry Process](#infantry-process)
-- [Airborne](#airborne)
-  - [Razor](#razor)
+  - [Helmet apporval process for Airborne,Aviation and Infantry.](#helmet-apporval-process-for-airborneaviation-and-infantry)
   - [ARC](#arc)
 - [Guidelines](#guidelines)
   - [Infantry Guidelines](#infantry-guidelines)
+
 ## Process
 
-### Infantry Process
+### Helmet apporval process for Airborne,Aviation and Infantry.
 
 1. Design your helmet with the base template. 
 2. Once your done, submit the texture to the forum [here](#sad)
@@ -23,16 +22,7 @@ Helmet approval process has be restructured to allow for a faster delivery time.
 6. After this final acceptance the helmet will be put in queue to be put in mod.
 7. enjoy 😊.
 
-## Airborne
-
-same
-
-### Razor
-
-TBD
-
 ### ARC
-
 ????
 
 ## Guidelines
