@@ -29,6 +29,7 @@ Helmet approval process has be restructured to allow for a faster delivery time.
 **CT Calo:** Will be in charge of Airborne related textures.  
 **CX-X Casskun:** Will be incharge of Aviation related textures, helmets ,vehicles and whatever.  
 **CP Kestral:** Will be in charge of Infantry textures and other miscellaneous textures.  
+
 These folks will get in contact with you, depending on where you are, regarding your helmet.
 
 ## Process
@@ -62,10 +63,10 @@ CS+ can use the above template, or choose to use the sergeant template below if 
 
 ### Airborne Template
 
-Veteran troopers have access to this template  
+Airborne Veteran troopers **can only** use this template
 ![ab_vet][ab_vet_template]
 
-NCO+ can use the above template, or choose to use the NCO template below if they wish.
+Airborne NCO's **can only** use this template
 ![serge][ab_nco_template]
 
 ### Aviation Template
