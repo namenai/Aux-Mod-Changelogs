@@ -66,7 +66,7 @@ CS+ can use the above template, or choose to use the sergeant template below if 
 Airborne Veteran troopers **can only** use this template
 ![ab_vet][ab_vet_template]
 
-Airborne NCO's **can only** use this template
+Airborne NCO's **can only** use this template  
 ![serge][ab_nco_template]
 
 ### Aviation Template
