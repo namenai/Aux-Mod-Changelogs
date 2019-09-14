@@ -2,7 +2,8 @@
 [vet_template]: https://i.imgur.com/jzdQTQT.png "Vet template"
 [ab_nco_template]: https://i.imgur.com/suvg20G.png "AB NCO template"
 [ab_vet_template]: https://i.imgur.com/Inr9u99.png "AB Vet template"
-
+[arc_verda_template]: https://cdn.discordapp.com/attachments/523224901516263434/622272174715043840/Verda.png "Arc verda template"
+[arc_adenn_template]: https://cdn.discordapp.com/attachments/523224901516263434/622272173951942656/Adenn.png "Arc adenn template"
 # Helmet guidelines <!-- omit in toc -->
 
 Helmet approval process has be restructured to allow for a faster delivery time. Additionaly helmet guidelines have been updated to account for time/dedication.
@@ -68,15 +69,21 @@ Airborne Veteran troopers **can only** use this template
 ![ab_vet][ab_vet_template]
 
 Airborne NCO's **can only** use this template  
-![serge][ab_nco_template]
+![ab_nco][ab_nco_template]
 
 ### Aviation Template
 
-ehhh Im getting it :( also TBH u dont really need one f.
+None. Speak to Casskun and Aviation CoC beforehand.
 
 ### ARC Template
 
-Use the template of your squad. coming soon will post.
+Use the template of your squad.
+
+**Verda**
+![arc_verda][arc_verda_template]
+
+**Adenn**
+![arc_adenn][arc_verda_template]
 
 ## Guidelines
 
