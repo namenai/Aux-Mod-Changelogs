@@ -83,7 +83,7 @@ Use the template of your squad.
 ![arc_verda][arc_verda_template]
 
 **Adenn**
-![arc_adenn][arc_verda_template]
+![arc_adenn][arc_adenn_template]
 
 ## Guidelines
 
