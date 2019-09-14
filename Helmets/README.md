@@ -98,7 +98,7 @@ Use the template of your squad.
 |  **Sr Corporal** | 3 markings/color changes |
 | **Sergeant**     | 3 markings/color changes |
 | **Sr Sergeant**  | 4 markings/color changes |
-| **CS-M+**        | full custom (**NOTE:** glowing visor will only be given to those who are slotted in a platoon and active, not in reserves)              |
+| **CS-M+**        | full custom (**NOTE:** glowing visor will only be given to those who are slotted in a platoon and active, not in reserves. This will be handled case by case basis to actualy make the glowing visor special.)              |
 
 **Remember** to use correct templates.
 
@@ -106,15 +106,15 @@ Use the template of your squad.
 
 #### Conditions
 
-- **Must** meet one of the following.
+- **Must** meet one of the following to have a custom helmet.
 
 1. You are a Section Leader. Follow inbetween CP/CS rules, so 2-3 markings/color changes
 2. You are a Flight Commander.
-3. A member of Lightning CX-X ++
-4. The design is minimal - change or addition has not altered the original.
+3. A member of Lightning and CX-X+
+4. The design is minimal - change or addition has not altered the original base design.
 5. Not a cadet (Big Sad)
 
-If none of those are met, follow the guidelines below
+Follow these for rank based rules.
 
 | Rank             | Customization            |
 |------------------|--------------------------|
