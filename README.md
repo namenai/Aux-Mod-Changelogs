@@ -48,5 +48,5 @@ Helmet guidelines can be found [here](./Helmets/README.md)
 ### Aerium
 **One Word Description:** LAZORZ  
 **Released:** 5/20/2019  
-**Changelog:** [Aerium Changelog](https://github.com/namenai/Aux-Mod-Changelogs/tree/master/Changelogs/Aux%20-%205-15-2019%20-%20Aireium%20Update)  
+**Changelog:** [Aerium Changelog](./Changelogs/Aireium/README.md)  
 **Update Status:** ✔️ Done
