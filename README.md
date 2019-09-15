@@ -1,15 +1,13 @@
 # Aux-Mod-Changelogs <!-- omit in toc -->
 
-_last update_:9/12/2019  
-_by_:**CX-D Namenai** 🐉
-
----
 Hello, welcome to the **RD501** Aux mod changelog repo. Just click which update you wanna see and ye shall see 👀.  
 Or you can be lazy and click these links below which will take ye to that repo page.
 
 ## Table of Contents <!-- omit in toc -->
 
 - [The People](#the-people)
+  - [Main Team](#main-team)
+  - [Texturers](#texturers)
   - [Forever gone 😢](#forever-gone-)
 - [Helmet Guidelines](#helmet-guidelines)
 - [Changelogs](#changelogs)
@@ -18,12 +16,16 @@ Or you can be lazy and click these links below which will take ye to that repo p
 
 ## The People
 
-* Namenai makes the mod.
-* Zatama helps make the mod.
-* Sam leads helmet textures.
-* Casskun textures for Razor helmets and related stuff.
-* Calo textures for AB helmets.
-* Kestral textures for infantry helmetst and other special stuff.
+### Main Team
+- Namenai makes the mod.
+- Zatama helps make the mod.
+
+### Texturers
+
+- Sam leads helmet textures.
+- Casskun textures for Razor helmets and related stuff.
+- Calo textures for AB helmets and related stuff.
+- Kestral textures for infantry helmetst and other special stuff.
 
 ### Forever gone 😢
 
@@ -31,7 +33,7 @@ Or you can be lazy and click these links below which will take ye to that repo p
 
 ## Helmet Guidelines
 
-Helmet guidelines can be found [here](https://github.com/namenai/Aux-Mod-Changelogs/tree/master/Helmets)
+Helmet guidelines can be found [here](./Helmets/README.md)
 
 ## Changelogs
 
@@ -41,8 +43,10 @@ Helmet guidelines can be found [here](https://github.com/namenai/Aux-Mod-Changel
 **Changelog:** [TBD Changelog](https://www.youtube.com/watch?v=oHg5SJYRHA0)  
 **Update Status:** 🚧 In Progress
 
+---
+
 ### Aerium
-**Theme:** LAZORZ  
+**One Word Description:** LAZORZ  
 **Released:** 5/20/2019  
 **Changelog:** [Aerium Changelog](https://github.com/namenai/Aux-Mod-Changelogs/tree/master/Changelogs/Aux%20-%205-15-2019%20-%20Aireium%20Update)  
 **Update Status:** ✔️ Done

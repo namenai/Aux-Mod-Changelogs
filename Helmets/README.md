@@ -26,11 +26,12 @@ Helmet approval process has be restructured to allow for a faster delivery time.
 
 ## People who make the helmets
 
-**CX-D Namenai:** I literally make the mod XD, just ask me if you have questions lol.  
-**CS Sam:** Will be the leader for texturing for the mod. If you have questions ask him.  
+**CS Sam:** Will be the lead for texturing for the mod. If you have questions ask him.  
 **CT Calo:** Will be in charge of Airborne related textures.  
 **CX-X Casskun:** Will be incharge of Aviation related textures, helmets ,vehicles and whatever.  
 **CP Kestral:** Will be in charge of Infantry textures and other miscellaneous textures.  
+
+All other textures will be spread across these 4.
 
 These folks will get in contact with you, depending on where you are, regarding your helmet.
 
