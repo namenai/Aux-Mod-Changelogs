@@ -71,7 +71,7 @@ Heres a nice little chart.
 
 ```md
 ├── ARC Command
-├──── Custom Helmet
+├──── **Custom Helmet**
 
 ├── Verda Squad
 ├──── Squad Leader
