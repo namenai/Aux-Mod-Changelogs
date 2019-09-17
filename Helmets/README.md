@@ -2,8 +2,14 @@
 [vet_template]: https://i.imgur.com/jzdQTQT.png "Vet template"
 [ab_nco_template]: https://i.imgur.com/suvg20G.png "AB NCO template"
 [ab_vet_template]: https://i.imgur.com/Inr9u99.png "AB Vet template"
+
 [arc_verda_template]: https://cdn.discordapp.com/attachments/523224901516263434/622272174715043840/Verda.png "Arc verda template"
+[arc_triton_template]: https://cdn.discordapp.com/attachments/611253986946711552/622982790027411497/TritonHelmetTemplate.png "Arc triton template"
+[arc_beskar_template]: https://cdn.discordapp.com/attachments/611253986946711552/622982784834732072/BeskarHelmetTemplate.png "Arc beskar template"
+
 [arc_adenn_template]: https://cdn.discordapp.com/attachments/523224901516263434/622272173951942656/Adenn.png "Arc adenn template"
+[arc_cyrus_template]: https://cdn.discordapp.com/attachments/611253986946711552/622982787363897364/CyrusHelmetTemplate.png "Arc cyrus template"
+[arc_solus_template]: https://cdn.discordapp.com/attachments/611253986946711552/622982760000258059/SolusHelmetTemplate.png "Arc solus template"
 # Helmet guidelines <!-- omit in toc -->
 
 Helmet approval process has be restructured to allow for a faster delivery time. Additionaly helmet guidelines have been updated to account for time/dedication.
@@ -19,6 +25,8 @@ Helmet approval process has be restructured to allow for a faster delivery time.
   - [Airborne Template](#airborne-template)
   - [Aviation Template](#aviation-template)
   - [ARC Template](#arc-template)
+    - [Verda Squad](#verda-squad)
+    - [Adenn Squad](#adenn-squad)
 - [Guidelines](#guidelines)
   - [Infantry, Airborne, and ARC Guidelines](#infantry-airborne-and-arc-guidelines)
   - [Aviation Guidelines](#aviation-guidelines)
@@ -50,7 +58,38 @@ These folks will get in contact with you, depending on where you are, regarding 
 
 ### ARC
 
-Follow the same as infantry, but instead of using the templates for veteran/CS the arc member would use their squad helmet as a template. For example if in Adenn squad,the person would use the Adenn helmet as their template and apply the markings based of their rank.
+Follow the same as infantry, but instead of using the templates for veteran/CS the arc member would use their squad helmet as a template and if applicable use the team template. Its a little bit confusing so lets break it down.
+
+1. There are two squads,**Verda** and **Adenn**
+2. Each squad has 2 teams, this brings the total number of templats to 6
+3. If you are the squad leader you use the squad template (**Verda** or **Adenn**)
+4. If you are in the team, you would use the team template (**Triton** and **Beskar** for **Verda** and then **Cyrus** and **Solus** for **Adenn**)
+
+Heres a nice little chart.
+
+```md
+├── ARC Command
+├────< Custom Helmet >
+
+├── Verda Squad
+├──── Squad Leader
+├──────< Use Verda template >
+├──── Team Triton
+├──────< Use Triton template >
+├──── Team Beskar
+├──────< Use Beskar template >
+
+├── Adenn Squad
+├──── Squad Leader
+├──────< Use Adenn template >
+├──── Team Cyrus
+├──────< Use Cyrus template >
+├──── Team Solus
+├──────< Use Solus template >
+
+├── Not in ARC
+└──── Nothing :(
+```
 
 ## Templates
 
@@ -78,13 +117,27 @@ None. Speak to Casskun and Aviation CoC beforehand.
 
 ### ARC Template
 
-Use the template of your squad.
+#### Verda Squad
 
-**Verda**
+**Squad Verda**
 ![arc_verda][arc_verda_template]
+
+**Team Triton**
+![arc_triton][arc_triton_template]
+
+**Team Beskar**
+![arc_beskar][arc_beskar_template]
+
+#### Adenn Squad
 
 **Adenn**
 ![arc_adenn][arc_adenn_template]
+
+**Team Cyrus**
+![arc_triton][arc_cyrus_template]
+
+**Team Solus**
+![arc_beskar][arc_solus_template]
 
 ## Guidelines
 
@@ -99,7 +152,7 @@ Use the template of your squad.
 |  **Sr Corporal** | 3 markings/color changes |
 | **Sergeant**     | 3 markings/color changes |
 | **Sr Sergeant**  | 4 markings/color changes |
-| **CS-M+**        | full custom (**NOTE:** glowing visor will only be given to those who are slotted in a platoon and active, not in reserves. This will be handled case by case basis to actualy make the glowing visor special.)              |
+| **CS-M+**        | full custom (**NOTE:** Glowing visor will only be given to those who are slotted in a platoon and active, not in reserves. This will be handled case by case basis to actualy make the glowing visor special. Glowing helmets by SWOP wont be changed,only applies to additions)              |
 
 **Remember** to use correct templates.
 
