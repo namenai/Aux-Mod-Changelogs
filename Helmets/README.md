@@ -65,27 +65,29 @@ Follow the same as infantry, but instead of using the templates for veteran/CS t
 3. If you are the squad leader you use the squad template (**Verda** or **Adenn**)
 4. If you are in the team, you would use the team template (**Triton** and **Beskar** for **Verda** and then **Cyrus** and **Solus** for **Adenn**)
 
+**NOTE:** That these helmets are collective,so everyone in **Triton** will wear the customized **Triton** helmet, its just that the team collectivly decide what to put. So lets say every member in **Triton** decides to add a flower to the **Triton** helmet,every member wears this **Triton** helmet with a flower.
+
 Heres a nice little chart.
 
 ```md
 ├── ARC Command
-├────<Custom Helmet>
+├──── Custom Helmet
 
 ├── Verda Squad
 ├──── Squad Leader
-├──────< Use Verda template >
+├────── **Use Verda template**
 ├──── Team Triton
-├──────< Use Triton template >
+├────── **Use Triton template**
 ├──── Team Beskar
-├──────< Use Beskar template >
+├────── **Use Beskar template**
 
 ├── Adenn Squad
 ├──── Squad Leader
-├──────< Use Adenn template >
+├────── **Use Adenn template**
 ├──── Team Cyrus
-├──────< Use Cyrus template >
+├────── **Use Cyrus template**
 ├──── Team Solus
-├──────< Use Solus template >
+├────── **Use Solus template**
 
 ├── Not in ARC
 └──── Nothing :(
