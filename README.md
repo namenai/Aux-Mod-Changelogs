@@ -11,7 +11,7 @@ Or you can be lazy and click these links below which will take ye to that repo p
   - [Forever gone 😢](#forever-gone-)
 - [Helmet Guidelines](#helmet-guidelines)
 - [Changelogs](#changelogs)
-  - [TBD 🔮](#tbd-)
+  - [RE3 🔮](#re3-)
   - [Aerium](#aerium)
 
 ## The People
@@ -38,7 +38,7 @@ Helmet guidelines can be found [here](./Helmets/README.md)
 
 ## Changelogs
 
-### TBD 🔮
+### RE3 🔮
 
 **Theme:** Remakde  
 **Released:** TBD  
