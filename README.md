@@ -17,6 +17,7 @@ Or you can be lazy and click these links below which will take ye to that repo p
 ## The People
 
 ### Main Team
+
 - Namenai makes the mod.
 - Zatama helps make the mod.
 
@@ -29,7 +30,7 @@ Or you can be lazy and click these links below which will take ye to that repo p
 
 ### Forever gone 😢
 
-* Rexi,he helped make mod.
+- Rexi,he helped make mod.
 
 ## Helmet Guidelines
 
@@ -37,15 +38,17 @@ Helmet guidelines can be found [here](./Helmets/README.md)
 
 ## Changelogs
 
-### TBD 🔮 
-**Theme:** TBD  
+### TBD 🔮
+
+**Theme:** Remakde  
 **Released:** TBD  
-**Changelog:** [TBD Changelog](https://www.youtube.com/watch?v=oHg5SJYRHA0)  
-**Update Status:** 🚧 In Progress
+**Changelog:** [TBD Changelog](./Changelogs/RE3/README.md)  
+**Update Status:** Soon™️ 👀
 
 ---
 
 ### Aerium
+
 **One Word Description:** LAZORZ  
 **Released:** 5/20/2019  
 **Changelog:** [Aerium Changelog](./Changelogs/Aireium/README.md)  
