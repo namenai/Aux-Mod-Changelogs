@@ -40,9 +40,9 @@ Helmet guidelines can be found [here](./Helmets/README.md)
 
 ### RE3 🔮
 
-**Theme:** Remakde  
-**Released:** TBD  
-**Changelog:** [TBD Changelog](./Changelogs/RE3/README.md)  
+**Theme:** Remake  
+**Releas:** 9/22/2019  
+**Changelog:** [RE3 Changelog](./Changelogs/RE3/README.md)  
 **Update Status:** Soon™️ 👀
 
 ---
