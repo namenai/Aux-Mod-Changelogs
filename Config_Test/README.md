@@ -30,6 +30,7 @@ Since you have PBO manager, Sublime text,VS code and Arma 3 tools installed, you
 
 2. [Ammo reference](https://community.bistudio.com/wiki/CfgAmmo_Config_Reference),[Magazine reference](https://community.bistudio.com/wiki/CfgMagazines_Config_Reference),[Weapon reference](https://community.bistudio.com/wiki/CfgWeapons_Config_Reference),  [Targeting reference](https://community.bistudio.com/wiki/Arma_3_Targeting_config_reference) and [Vehicle refernce](https://community.bistudio.com/wiki/CfgVehicles_Config_Reference). The first three are the documentation on what properties ammo,mags, and weapons have. For example it tells you what variable relates to the damage value of a ammo, or what value means the magazine count or what value means rate of fire. The 4th link tells you what variables are used to determine how AI/weapons target stuff. The 5th is about vehicles so stuff like armor, what weapons a vehicle has and how many of each magazine. I know its a lot but just read it slowly and take your time.
 
+3. [Class inheritance](https://community.bistudio.com/wiki/Class_Inheritance) 
 ## What to do
 
 - So now heres a big question, how would you go about doing this? Well lets think about it and break it up in pieces. Whats a weapon that shoots at air targets? a weapon that targets vehicles? a weapon that targets infantry? a weapon that targets sea vehicles?

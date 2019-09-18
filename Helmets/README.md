@@ -12,7 +12,7 @@
 [arc_solus_template]: https://cdn.discordapp.com/attachments/611253986946711552/622982760000258059/SolusHelmetTemplate.png "Arc solus template"
 # Helmet guidelines <!-- omit in toc -->
 
-Helmet approval process has be restructured to allow for a faster delivery time. Additionaly helmet guidelines have been updated to account for time/dedication.
+Helmet approval process has be restructured to allow for a faster delivery time. Additionaly helmet guidelines have been updated to account for time/dedication in unit.
 
 ## Table of Contents <!-- omit in toc -->
 
