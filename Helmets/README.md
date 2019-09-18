@@ -147,6 +147,8 @@ None. Speak to Casskun and Aviation CoC beforehand.
 
 **Note:** Helmets will only be given to those who meet the requirments below, and are slotted and active. We cant have texturers waste time on someone who wont be here. Simple facts. Some exceptions have/will be made.
 
+***1 marking= palm size***
+
 | Rank             | Customization            |
 |------------------|--------------------------|
 | **Vet**          | 2 markings/color changes |
