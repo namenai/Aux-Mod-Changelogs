@@ -54,6 +54,8 @@ These folks will get in contact with you, depending on where you are, regarding 
 
 [This](https://docs.google.com/forms/d/e/1FAIpQLSfhZW5Uv62KyTxiCFaFDw6OoL8ng-DfEJ36BJFzDxDBEqX_iA/viewform) is the new Google Form for helmet submission.
 
+[This](https://docs.google.com/spreadsheets/d/1dAYhbEN5ca_bCJ147h4vnMr5gKZ6Z3Uze4Y-N6XSvfA/edit#gid=184053813) is the Google Spreadsheet for responses.
+
 ### Helmet apporval process for Airborne, Aviation and Infantry
 
 1. Design your helmet with the base template. 
