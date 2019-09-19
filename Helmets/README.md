@@ -18,6 +18,7 @@ Helmet approval process has be restructured to allow for a faster delivery time.
 
 - [People who make the helmets](#people-who-make-the-helmets)
 - [Process](#process)
+  - [Google Form](#google-form)
   - [Helmet apporval process for Airborne, Aviation and Infantry](#helmet-apporval-process-for-airborne-aviation-and-infantry)
   - [ARC](#arc)
 - [Templates](#templates)
@@ -44,6 +45,10 @@ All other textures will be spread across these 4.
 These folks will get in contact with you, depending on where you are, regarding your helmet.
 
 ## Process
+
+### Google Form
+
+[This](https://docs.google.com/forms/d/e/1FAIpQLSfhZW5Uv62KyTxiCFaFDw6OoL8ng-DfEJ36BJFzDxDBEqX_iA/viewform) is the new Google Form for helmet submission.
 
 ### Helmet apporval process for Airborne, Aviation and Infantry
 
