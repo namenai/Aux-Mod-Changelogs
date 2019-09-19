@@ -1,3 +1,6 @@
+
+[color_possible]: https://cdn.discordapp.com/attachments/614297558147268623/620052242254528512/501st_Color_Pallete.png "CS template"
+
 [serge_template]: https://i.imgur.com/uhWfUua.png "CS template"
 [vet_template]: https://i.imgur.com/jzdQTQT.png "Vet template"
 [ab_nco_template]: https://i.imgur.com/suvg20G.png "AB NCO template"
@@ -22,6 +25,7 @@ Helmet approval process has be restructured to allow for a faster delivery time.
   - [Helmet apporval process for Airborne, Aviation and Infantry](#helmet-apporval-process-for-airborne-aviation-and-infantry)
   - [ARC](#arc)
 - [Templates](#templates)
+  - [Colors](#colors)
   - [Infantry Template](#infantry-template)
   - [Airborne Template](#airborne-template)
   - [Aviation Template](#aviation-template)
@@ -101,6 +105,11 @@ Heres a nice little chart.
 ## Templates
 
 **Disregard** the uniform, only look at helmet.
+
+### Colors
+
+This image is the possible colors that you are allowed.
+![colors][color_possible]
 
 ### Infantry Template
 
