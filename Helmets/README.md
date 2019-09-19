@@ -109,6 +109,7 @@ Heres a nice little chart.
 ### Colors
 
 This image is the possible colors that you are allowed.
+
 ![colors][color_possible]
 
 ### Infantry Template
