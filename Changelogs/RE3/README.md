@@ -34,7 +34,7 @@ Remade, Renewed, Refreshed.
   - [Aviation Helmets](#aviation-helmets)
   - [Infantry Helmets](#infantry-helmets)
   - [AB Helmets](#ab-helmets)
-- [Clousing Remarks](#clousing-remarks)
+- [Closing Remarks](#closing-remarks)
 
 ## Introduction
 
@@ -216,6 +216,6 @@ I added keys again. wowe.
 2. Purge trooper by CT Nut I mean CT Calo. Help by CT Ranger for glow.
 3. CP Tuffs
 
-## Clousing Remarks
+## Closing Remarks
 
 This update is huge, maybe not in terms of content, but in terms of how the mod is made. As such I expect many bugs/kits not loading. So if thats the case please tell me, I cant fix what I dont know.
