@@ -29,6 +29,7 @@ Remade, Renewed, Refreshed.
 - [For other mod devs 💻](#for-other-mod-devs-)
   - [Legacy Classnames](#legacy-classnames)
   - [Arsenal Loadouts](#arsenal-loadouts)
+  - [Keys](#keys)
 - [Helmets ⛑️](#helmets-️)
   - [Aviation Helmets](#aviation-helmets)
   - [Infantry Helmets](#infantry-helmets)
@@ -192,6 +193,10 @@ Assuming that you dont have VANA on, the arsenal will show greyed out kits. You 
 ![yeet][arse_meme]
 
 You se how it says `SWOP_dc15xBlastewrRifle_RD501_Mag`? Yea thats a classname that doesnt exist, and that may or may not make it so you can load your kit. If you cant load it send me, Namenai, a screenshot or the name of that item so I can make so your kit is loadable.
+
+### Keys
+
+I added keys again. wowe.
 
 ## Helmets ⛑️
 
