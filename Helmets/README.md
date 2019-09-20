@@ -75,8 +75,7 @@ Follow the same as infantry, but instead of using the templates for veteran/CS t
 2. Each squad has 2 teams, this brings the total number of templats to 6
 3. If you are the squad leader you use the squad template (**Verda** or **Adenn**)
 4. If you are in the team, you would use the team template (**Triton** and **Beskar** for **Verda** and then **Cyrus** and **Solus** for **Adenn**)
-
-**NOTE:** That these helmets are collective,so everyone in **Triton** will wear the customized **Triton** helmet, its just that the team collectivly decide what to put. So lets say every member in **Triton** decides to add a flower to the **Triton** helmet,every member wears this **Triton** helmet with a flower.
+5. Follow the normal Infantry guidelines.
 
 Heres a nice little chart.
 
@@ -103,6 +102,8 @@ Heres a nice little chart.
 ├── Not in ARC
 └──── Nothing :(
 ```
+
+So let me give you an example. Say theres person X,Y and Z. X and Y are in Cyrus and Person Z is the squad leader and thus in Adenn. X and Y would use the Cyrus template and person Z would use the Adenn template.
 
 ## Templates
 
@@ -173,7 +174,7 @@ None. Speak to Casskun and Aviation CoC beforehand.
 |  **Sr Corporal** | 3 markings/color changes |
 | **Sergeant**     | 3 markings/color changes |
 | **Sr Sergeant**  | 4 markings/color changes |
-| **CS-M+**        | full custom (**NOTE:** Glowing visor will only be given to those who are slotted in a platoon and active, not in reserves. This will be handled case by case basis to actualy make the glowing visor special. Glowing helmets by SWOP wont be changed,only applies to additions)              |
+| **CS-M+**        | full custom (**NOTE:** Glowing visor will only be given to those who are slotted in a platoon and active, not in reserves. This will be handled case by case basis to actualy make the glowing visor special. Glowing helmets by SWOP wont be changed,only applies to additions and the color will be the current blue/cyan color.)              |
 
 **Remember** to use correct templates.
 
